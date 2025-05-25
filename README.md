@@ -8,6 +8,7 @@ Um projetinho divertido que fiz para organizar, com meus amigos, a lista de dese
 - Atualiza a planilha todos os dias às 7h da manhã.
 - Destaca promoções e jogos já comprados com cores diferentes.
 - Adiciona um botão no menu "Wishlist" para atualizar apenas os novos jogos.
+- Na imagem vai ter a coluna de "Valor total de todos os jogos", mas adicionei isso na brincadeira para ver o quão caro ia ficar.
 
 ## Exemplo
 
